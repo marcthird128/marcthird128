@@ -3,7 +3,7 @@
    grace (a homeschool curriculum) homepage. I was weirded out - how did Chrome work if I didn't have internet?!? (What, I was new to web browsing - my mom made me work offline and I'd never touched chrome before.)
 
    I looked at the adress bar. `file://C:/Program Files (x86)/Go To Egypt/Tapestry Of Grace/index.htm`. .htm? I'd never seen _that_ extension before. But, a file extension is an oppurtunity, right? I had tried
-   countless times to oepn up binary files, only to be dismayed by jibberish like `¯Kƒè#Scÿ 8Çòâ–'~Ÿ?òþ­Úû•è«P+ù.W—ù¿é¢½bŠþK§Uåþoúh¯EX¢€.` Poor programmers. They must of had it hard making `WINWORD.EXE`
+   countless times to open up binary files in Notepad, only to be dismayed by jibberish like `¯Kƒè#Scÿ 8Çòâ–'~Ÿ?òþ­Úû•è«P+ù.W—ù¿é¢½bŠþK§Uåþoúh¯EX¢€.` Poor programmers. They must of had it hard making `WINWORD.EXE`
    (That's what the MS Word executable is called.) How relieved I was when I finnally opened up a `.csv` for People and found out that it was readable. After saving something made with WordPad, I figured
    out that `.rtf`'s aren't too bad either.
 
