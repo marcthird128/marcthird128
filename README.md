@@ -41,5 +41,5 @@
 
    Now, I just keep learning more code languages. It's fun to keep going more and more low-level until you're just writing EXE's from scratch in a hex editor. But yeah, I just do it in spare time as a hobby.
 
-   Oh, also, if you read this all, you must have alot of spare time.
+   Oh, also, if you read this all, you must have a lot of spare time :)
    
