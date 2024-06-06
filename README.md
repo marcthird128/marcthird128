@@ -35,7 +35,7 @@
    was filled with plain English! The code was littered with stuff like `// Check device type`. What's the point of a code language that you can just throw in english to be followed?! You can just say 
    "Make the button turn blue when hovered" and it works?!? Uggh.
 
-   But I didn't really have a choice. I knew it was making the page responsive. So, I tried. It was hard though. You developers who casually write `res = [...d].toSorted(function(a,b){return d(a,b) != 0})`
+   But I didn't really have a choice. I knew it was making the page responsive. So, I tried. It was hard though. You developers who casually write `res = [...d].toSorted(function(a,b){return invertSqr(a,b) != 0})`
    don't know how hard it is to figure it out from scratch. Try to finding out the meaning of "pe mbaꞌe iporãvéva Fraktur fuente rehegu" (unless you are an expert in Gurani). But, of course, with some reading
    at w3schools etc, and lots of mistakes like running broken code with a Java interpreter, I finally made a video game.
 
