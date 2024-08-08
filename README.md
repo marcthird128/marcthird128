@@ -1,8 +1,7 @@
-**👋 Hi, I’m @marcthird128**
+**marcthird128**
 
-I am a self-taught developer and I mostly do the HTML/CSS/JS thing but I am also decent at C++ and I am learning Java.
-I have had a LOT of experience making basic video games and random example websites for like 5 years, I have this old PC loaded with them.
-maybe I'll upload them later.
+I am a self-taught developer and I mostly make static web pages thing but I am also decent at C and C++ and I am learning Java.
+I have alot of experience making 2D games and web apps.
 
 **What I'm learning**
 
@@ -14,3 +13,7 @@ maybe I'll upload them later.
 **Stack Overflow**
 
 <a href="https://stackoverflow.com/users/22776060/marcthird">marcthird</a>
+
+**Website**
+
+<a href="https://marcthird128.github.io">This page<a> is kind ofthe index for all my projects.</a>
